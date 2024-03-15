@@ -8,7 +8,7 @@ public class TP01Ex17 {
     public static void main(String[] args) {
 
         Scanner sc = new Scanner(System.in);
-        System.out.println("vamos calcular a area de um retangulo! ");
+        System.out.println("vamos calcular a potencia de um numero! ");
         System.out.print("digite o valor de x (base): ");
         float x = sc.nextFloat();
 
